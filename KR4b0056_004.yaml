@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0056/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録據逯欽立輯本頁輯岸煙起暮色岸水帶斜暉徑狹橫枝度簾搖驚燕飛落花承步履流澗寫行衣何殊九芝蓋薄暮洞庭歸文苑英華百五十七
+  hash: sha256:dbd58cd1e94d107d87f007b8b51d1106cc485b97f0eb560e2bbdd13418571940
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0056_CHANT_004-1a.1-h}
+metadata:
+  title: 王僧孺集三卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0056.xml
+hash: sha256:4b5ac8c3ff667b4546c15e728f3b3866b912b78684c8b234f51e4724a00dcb8f
